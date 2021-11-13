@@ -87,7 +87,10 @@ The scope of the Bug Bounty program spans production smart contracts utilized in
 
 For exact smart contracts, refer to:
 
-> TODO
+- [Keep3r Network](https://github.com/keep3r-network/keep3r.network)
+- [Keep3r Network v2](https://github.com/keep3r-network/keep3r-network-v2)
+- [Staking Rewards](https://github.com/keep3r-network/StakingRewardsV3)
+- [Fixed Forex](https://github.com/keep3r-network/ff)
 
 #### Production Contracts
 
