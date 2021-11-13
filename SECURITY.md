@@ -37,14 +37,6 @@ For all security related issues, Keep3r Network has two main points of contact:
 
 Include all contacts in your communication.
 
-### Via Immunefi
-
-A bug bounty is also hosted on Immunefi at the address [https://immunefi.com/bounty/keep3rnetwork/](https://immunefi.com/bounty/keep3rnetwork/).
-
-Vulnerabilities may also be disclosed through the [Immunefi platform](https://immunefi.com/). Immunefi will then handle bug bounty communications.
-
-Users who violate the rules of participation will not receive bug bounty payouts and may be temporarily suspended or banned from the bug bounty program.
-
 ## Sending Disclosures
 
 In the case where we become aware of security issues affecting other projects that has never affected Keep3r Network, our intention is to inform those projects of security issues on a best effort basis.
