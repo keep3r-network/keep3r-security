@@ -70,7 +70,7 @@ Keep3r Network has a Bug Bounty program to encourage security researchers to spe
 
 ### Rewards
 
-- **Severe:** $20,000-$200,000
+- **Severe:** $20,000-$100,000
 - **High:** $5,000-$20,000
 - **Medium:** $1,000-$5,000
 - **Low:** $100-$1,000
