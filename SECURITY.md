@@ -94,12 +94,10 @@ For exact smart contracts, refer to:
 
 #### Production Contracts
 
-> TODO
+Please, refer to following registries:
 
-| Network | Contract | Description | Address | Function to call |
-| ------- | -------- | ----------- | ------- | ---------------- |
-
-> TODO
+- Keep3r Network [docs](https://docs.keep3r.network/registry)
+- Fixed Forex [docs](https://docs.fixedforex.fi/developer/addresses)
 
 Note: Other contracts, outside of the ones mentioned above, might be considered on a case by case basis, please, reach out to the Keep3r Network development team for clarification.
 
