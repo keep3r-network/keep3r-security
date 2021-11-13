@@ -110,7 +110,7 @@ In the case of a counterfeiting or fund-stealing bug affecting Keep3r Network, h
 
 ## More Information
 
-Additional security-related information about the Keep3r Network project including disclosures, signatures and PGP public keys can be found in the [keep3r-security](https://github.com/keep3r-nwtwork/keep3r-security) repository.
+Additional security-related information about the Keep3r Network project including disclosures, signatures and PGP public keys can be found in the [keep3r-security](https://github.com/keep3r-network/keep3r-security) repository.
 
 ## Credits
 
