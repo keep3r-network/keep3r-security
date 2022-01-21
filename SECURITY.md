@@ -18,30 +18,11 @@ Any expected deviations and necessary clarifications around the standard are exp
 
 ## Receiving Disclosures
 
-### Directly to Keep3r Network
-
-Keep3r Network is committed to working with researchers who submit security vulnerability notifications to us, to resolve those issues on an appropriate timeline, and to perform a coordinated release, giving credit to the reporter if they would like so.
-
-Please submit issues to **all** of the following main points of contact for
-security related issues according to the
-[initial contact](https://github.com/RD-Crypto-Spec/Responsible-Disclosure#initial-contact)
-and [giving details](https://github.com/RD-Crypto-Spec/Responsible-Disclosure#giving-details)
-guidelines.
-
-For all security related issues, Keep3r Network has two main points of contact:
-
-| Contact      | Public key                                                                              | Telegram                                |
-| ------------ | --------------------------------------------------------------------------------------- | --------------------------------------- |
-| milkyklim    | [PGP](https://github.com/keep3r-netwrok/keep3r-security/blob/master/keys/milkyklim.asc) | [milkyklim](https://t.me/milkyklim)     |
-| Andre Cronje | -                                                                                       | [andrecronje](https://t.me/andrecronje) |
-
-Include all contacts in your communication.
-
 ### To Immunefi
 
-A bug bounty is also hosted on Immunefi at the address [https://immunefi.com/bounty/keep3rnetwork/](https://immunefi.com/bounty/keep3rnetwork/).
+A bug bounty is hosted on Immunefi at the address [https://immunefi.com/bounty/keep3rnetwork](https://immunefi.com/bounty/keep3rnetwork).
 
-Vulnerabilities may also be disclosed through the [Immunefi platform](https://immunefi.com/). Immunefi will then handle bug bounty communications.
+Vulnerabilities may also be disclosed through the [Immunefi platform](https://immunefi.com). Immunefi will then handle bug bounty communications.
 
 Users who violate the rules of participation will not receive bug bounty payouts and may be temporarily suspended or banned from the bug bounty program.
 
@@ -71,15 +52,15 @@ Keep3r Network has a Bug Bounty program to encourage security researchers to spe
 
 ### Classifications
 
-- **Severe:** Highly likely to have a material impact on availability, integrity, and/or loss of funds.
+- **Critical:** Highly likely to have a material impact on availability, integrity, and/or loss of funds.
 - **High:** Likely to have impact on availability, integrity, and/or loss of funds.
 - **Medium:** Possible to have an impact on availability, integrity, and/or loss of funds.
 - **Low:** Unlikely to have a meaningful impact on availability, integrity, and/or loss of funds.
 
 ### Rewards
 
-- **Severe:** $20,000-$100,000
-- **High:** $5,000-$20,000
+- **Critical:** $40,000-$1,000,000
+- **High:** $5,000-$40,000
 - **Medium:** $1,000-$5,000
 - **Low:** $100-$1,000
 
